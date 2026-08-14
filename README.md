@@ -4,7 +4,7 @@ My personal Doom Emacs configuration.
 
 ## Setup
 ```
-git clone git@git.sr.ht:~yourusername/doom-config ~/.doom.d
+git clone https://github.com/djon3s/doomemacs-config ~/.doom.d
 doom sync
 ```
 
