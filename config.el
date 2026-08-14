@@ -105,3 +105,5 @@
 
 (map! :map go-mode-map
       "C-c l t t" #'my/go-test-function-at-point)
+
+;;(add-to-list 'default-frame-alist '(fullscreen . fullboth))
