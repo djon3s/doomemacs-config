@@ -8,6 +8,11 @@ git clone https://github.com/djon3s/doomemacs-config ~/.doom.d
 
  ~/.config/emacs/bin/doom sync
 ```
+Alternatively you could add 
+```
+alias doom="~/.config/emacs/bin/doom" 
+```
+... to your ~/.zshrc or .bashrc 
 
 ## Features
 
