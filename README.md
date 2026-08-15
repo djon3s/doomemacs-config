@@ -5,7 +5,8 @@ My personal Doom Emacs configuration.
 ## Setup
 ```
 git clone https://github.com/djon3s/doomemacs-config ~/.doom.d
-doom sync
+
+ ~/.config/emacs/bin/doom sync
 ```
 
 ## Features
@@ -20,5 +21,7 @@ This repo is being tracked on sourcehut and github.
 
 To make life easier after clone in .git/config add the following two lines 
 
+```
 [include]
 	path = ../.gitaliases
+```
